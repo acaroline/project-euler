@@ -16,4 +16,4 @@ var primeFactor = function (number) {
     return number;
 };
 
-console.log(primeFactor(9));
+console.log(primeFactor(600851475143));
